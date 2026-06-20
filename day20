@@ -1,0 +1,15 @@
+*What you learned*
+1. *Prompt to full app*: Used a single Claude prompt to generate a complete HTML/JS game with webcam, drag-drop, and logic
+2. *Effort levels*: Tested how Low/Medium/High effort settings in Claude affect code detail and complexity
+3. *Browser APIs*: Worked with `getUserMedia` for webcam access, canvas for image slicing, and DOM events for touch/mouse
+4. *Game mechanics*: Implemented grid systems (3×3, 4×4, 5×5), timer, move counter, and local leaderboard
+5. *UX testing*: Verified cross-device interactions - drag-drop on desktop + touch on mobile
+6. *End-to-end shipping*: From prompt → code → browser test → GitHub docs → commit. Full dev loop.
+
+*Tools used*  
+*Claude.ai* - Code generation + prompt tuning  
+*HTML5 + CSS3 + Vanilla JS* - Game structure, styling, logic  
+*Web APIs* - Webcam `getUserMedia`, Canvas API, Drag & Drop API, Touch Events  
+*Browser* - Testing + permissions handling  
+*GitHub* - Day20 folder, version control, documentation  
+*Markdown* - http://day20.md for learnings log  
